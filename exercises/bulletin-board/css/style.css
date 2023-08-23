@@ -34,5 +34,14 @@ div { font-family: fantasy;
 #p4 {
     background-color: orange;
     padding: 45px;
-    font-size: 130%;
+    font-size: 155%;
+}
+#p5 {
+    background-color: plum;
+    font-size: 155%;
+}
+#p6 {
+    font-family: cursive;
+    font-size: 115%;
+    background-color: hotpink;
 }
