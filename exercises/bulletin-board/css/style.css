@@ -1,0 +1,32 @@
+/*
+    NOTE TO STUDENTS: 
+
+    This is the file you should be writing your CSS in 
+    for the Bulletin Board assignment.
+
+    Good luck, and have fun!
+*/
+.post-it {
+    margin: 24px;
+    padding: 24px;
+    background-color: aqua;
+    display: inline-block;
+    width: 200px;
+}
+img {
+    width: 80%;
+}
+div { font-family: fantasy;
+
+}
+
+#p1{
+    font-size: 150%;
+ background-color: pink
+}
+
+#p2{ 
+     background-color: yellow;}
+#p3 {
+  
+}
