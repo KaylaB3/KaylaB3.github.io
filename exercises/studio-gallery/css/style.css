@@ -27,6 +27,31 @@
     margin: 70px 12px 0auto;
     box-shadow: -2px 2px 2px grey;
 }
+.frame-2 div {
+    background-color: white;
+    border: 0px;
+    box-shadow: inset;
+    padding: 16px;
+    
+}
 .frame-2 img {
-    width: 50px;
+    width: 60px;
+    border: 1px inset;
+}
+.frame-3 {   
+    border: 10px solid goldenrod;
+    margin: 70px 12px 0auto;
+    box-shadow: -2px 2px 2px grey;
+}
+.frame-3 div { 
+    background-color: white;
+    border: 0px;
+    box-shadow:inset ;
+    padding:16px ;
+
+}
+.frame-3 img {  
+    width: 60px;
+    border: 1px inset;
+
 }
