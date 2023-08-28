@@ -7,9 +7,10 @@
     Good luck, and have fun!
 */
 .frame-1 {
-    border: 10px solid goldenrod;
+    border: 10px solid rgb(137, 107, 33);
     margin: 70px 12px 0auto;
     box-shadow: -2px 2px 2px grey;
+ transform: rotate(2deg);
 
 }
 .frame-1 div {
@@ -23,7 +24,7 @@
     border: 1px inset;
 }
 .frame-2 { 
-    border: 10px solid goldenrod;
+    border: 10px solid rgb(195, 164, 88);
     margin: 70px 12px 0auto;
     box-shadow: -2px 2px 2px grey;
 }
@@ -39,9 +40,10 @@
     border: 1px inset;
 }
 .frame-3 {   
-    border: 10px solid goldenrod;
+    border: 10px solid rgb(100, 82, 37);
     margin: 70px 12px 0auto;
     box-shadow: -2px 2px 2px grey;
+    transform: rotate(2deg);
 }
 .frame-3 div { 
     background-color: white;
