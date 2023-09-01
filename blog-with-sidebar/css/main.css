@@ -1,0 +1,21 @@
+#grid-v {
+    display: grid;
+    grid-template-columns: 1fr 250px;
+
+    
+
+}
+.voice img {
+    width: 100%;
+}
+.voice {
+    background-color: plum;
+    border: 3px solid purple;
+   
+
+}
+#recent-post {
+    border: 3px solid black;
+    
+
+}
