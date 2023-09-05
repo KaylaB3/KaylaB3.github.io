@@ -1,24 +1,60 @@
+
+
 #grid-v {
     display: grid;
     grid-template-columns: 1fr 250px;
-
-    
-
 }
 .voice img {
     width: 100%;
 }
 .voice {
-    background-color: plum;
-    border: 3px solid purple;
-   
+    background-color: #BDB76B;
+    border: 3px solid #FFE4B5;
+    padding: 20px;
+}
+
+.recent-post{
+    display: grid;
+}
+
+
+#recent-post{
+    background-color: #EEE8AA;
+    border: 2px solid;
+    border-radius: 4px;
+    height: 140px; ;
+    margin: 8px;
+    padding: 8px 8px;
+    display: grid;
+}
+
+  .recent-post1 {
+  
+  padding: 9px;
+  background-color: peachpuff;
+  border: 2px solid black;
+}
+.recent-post2 {
+    margin:1px;
+    background-color: #FFFACD;
+    border: 1px solid black;
 
 }
-#recent-post {
-    border: 3px solid black;
-    
-    
+.recent-post3 {
+    margin:1px;
+    background-color:#FFFACD ;
+    border: 1px solid black;
+}
+.recent-post4 {
+    margin:1px;
+    background-color: #FFFACD;
+    border: 1px solid black;
+}
+#art {
+    background-color: #BDB76B;
 
 }
-.recent-post {
-    
+#catergories {
+    display: grid;
+    grid-template-columns: 1 fr 250px;
+}
