@@ -1,0 +1,134 @@
+/*
+    Write your CSS for the assignment here.
+
+    You shouldn't need to modify the HTML;
+    however, you are allowed to. 
+    
+    Just be aware that you may break some
+    of the setup.css styling if you do so.
+*/
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+.card-style-2 {
+    background-color: white;
+    font-size: 15px;
+    display: inline-block;
+    border-radius: 50%;
+    width: 66px;
+    text-align: center;
+    align-items: flex-start;
+    
+}
+
+
+#animagram-card-1 {
+    width: 358px;
+    margin: 16px;
+    padding: 24px;
+   border-radius: 24px;
+  
+}
+#animagram-card-1 img{
+     width: 200px;
+    border-radius: 50% ;
+     
+     
+}
+  .animagram-header {
+    font-size: 30px;
+    font-family: 'Shadows Into Light';
+    font-weight: bold;
+    text-align: right;
+   
+}
+.animagram-header .logo {
+    text-align: left;
+}
+.animagram-footer {
+    padding: 24px;
+}
+#animagram-card-2 {
+    width: 358px;
+    margin: 16px;
+    padding: 24px;
+   border-radius: 24px;
+  
+}
+#animagram-card-2 img{
+     width: 200px;
+     border-radius: 50%;
+     
+     
+}
+  .animagram-header {
+    font-size: 30px;
+    font-family: 'Shadows Into Light';
+    font-weight: bold;
+    text-align: right;
+   
+}
+.animagram-header .logo {
+    text-align: left;
+}
+.animagram-footer {
+    padding: 24px;
+}
+
+#animagram-card-3 {
+    width: 358px;
+    margin: 16px;
+    padding: 24px;
+   border-radius: 24px;
+  
+}
+#animagram-card-3 img{
+     width: 200px;
+     border-radius: 50%;
+     
+     
+}
+  .animagram-header {
+    font-size: 30px;
+    font-family: 'Shadows Into Light';
+    font-weight: bold;
+    text-align: right;
+   
+}
+.animagram-header .logo {
+    text-align: left;
+}
+.animagram-footer {
+    padding: 24px;
+}
+
+#animagram-card-4 {
+    width: 358px;
+    margin: 16px;
+    padding: 24px;
+   border-radius: 24px;
+  
+}
+#animagram-card-4 img{
+     width: 200px;
+     border-radius: 50%;
+     
+}
+  .animagram-header {
+    font-size: 30px;
+    font-family: 'Shadows Into Light';
+    font-weight: bold;
+    text-align: right;
+   
+}
+ .logo {
+    text-align: left;
+}
+.animagram-footer {
+    padding: 24px;
+}
