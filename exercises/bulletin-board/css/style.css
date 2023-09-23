@@ -17,12 +17,14 @@ img {
     width: 80%;
 }
 div { font-family: fantasy;
+   
 
 }
 
 #p1{
     font-size: 150%;
  background-color: pink
+ 
 }
 
 #p2{ 
@@ -35,6 +37,8 @@ div { font-family: fantasy;
     background-color: orange;
     padding: 45px;
     font-size: 155%;
+ color: blanchedalmond;
+ font-style: ;
 }
 #p5 {
     background-color: plum;
