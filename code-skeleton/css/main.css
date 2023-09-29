@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+h1 h2 {
+    font-family: 'Dancing Script', cursive;
+
+}
+#homepage {
+    width: 100vw;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
+    text-align: center
+    
+}
+#homepage h1 {
+    margin-top: .5rem;
+    font-size: 8vw;
+}
