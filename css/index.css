@@ -5,4 +5,14 @@
 }
 h1, h2, h3, h4 {
     font-family: 'Dancing Script', cursive;
+
+}
+h1 {
+    font-size: 150px;
+    text-align: center;
+}
+h3, h2 {
+    font-size: 50px
+    ;
+    font-weight: bold;
 }
